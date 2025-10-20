@@ -36,6 +36,7 @@ with open('Notas_Alumnos_UF2.csv', newline='', encoding='utf-8') as notas2:
                 'Nota_UF2': row['UF2']
             }
 
+
 with open('notas_alumnos.csv', 'w', newline='', encoding='utf-8') as salida:
     campos = ['Id', 'Nombre', 'Apellido', 'Nota_UF1', 'Nota_UF2']
     writer = csv.DictWriter(salida, fieldnames=campos)

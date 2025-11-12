@@ -1,0 +1,17 @@
+Peluquería "Estilo y Belleza"
+
+Servicios:
+- Corte de pelo: 10 €
+- Tinte completo: 25 €
+- Mechas: 30 €
+- Peinado: 15 €
+- Manicura: 12 €
+- Pedicura: 15 €
+
+Horarios:
+Lunes a Viernes: 9:00 a 19:00
+Sábado: 9:00 a 14:00
+Domingo: cerrado
+
+Teléfono: 912 345 678
+Dirección: Calle del Sol, 123, Madrid

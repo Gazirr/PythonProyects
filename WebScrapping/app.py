@@ -13,12 +13,8 @@ st.title("Análisis y Visualización de Datos de Población Mundial")
 
 # Filtrado interactivo
 
-if 'Continent' in df.columns:
-    continentes = df['Continent'].unique()
-    continente_seleccionado = st.multiselect("Selecciona continente(s):", continentes, default=continentes)
-    df_filtrado = df[df['Continent'].isin(continente_seleccionado)]
-else:
-    df_filtrado = df
+
+df_filtrado = df
 
 # Ajusta aquí el nombre correcto de la columna de población
 col_poblacion = None

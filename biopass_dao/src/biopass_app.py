@@ -35,7 +35,7 @@ class BioPassApp:
 
         # Opcional: mostrar la imagen capturada antes de guardar
         cv2.imshow("Foto Capturada", frame)
-        cv2.waitKey(1000)  # 1 segundo
+        cv2.waitKey(2000)  # 1 segundo
         cv2.destroyAllWindows()
 
         return frame

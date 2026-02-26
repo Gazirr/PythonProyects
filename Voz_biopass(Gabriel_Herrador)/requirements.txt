@@ -1,0 +1,5 @@
+SpeechRecognition
+python-dotenv
+psycopg
+sounddevice
+numpy

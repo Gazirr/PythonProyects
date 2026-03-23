@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox, scrolledtext
-from src.auth_dao import AuthDAO
-from src.voice_service import VoiceService
+from auth_dao import AuthDAO
+from voice_service import VoiceService
 from datetime import datetime
 
 class VoiceAuditApp:

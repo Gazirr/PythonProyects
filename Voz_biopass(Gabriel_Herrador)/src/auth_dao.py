@@ -1,6 +1,6 @@
 import json
 from datetime import datetime, timedelta
-from src.conexion_db import ConexionDB
+from conexion_db import ConexionDB
 import psycopg # Cambiado a psycopg (v3)
 
 class AuthDAO:

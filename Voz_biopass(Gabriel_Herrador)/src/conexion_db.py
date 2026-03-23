@@ -1,5 +1,5 @@
 import psycopg # Cambiado de psycopg2
-from src.config import Config
+from config import Config
 
 class ConexionDB:
     _instance = None

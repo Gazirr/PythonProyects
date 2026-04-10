@@ -1,0 +1,7 @@
+opencv-contrib-python
+mediapipe==0.10.11
+pymongo[srv]
+python-dotenv
+numpy
+pycaw
+comtypes
